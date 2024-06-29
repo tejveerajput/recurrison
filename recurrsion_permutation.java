@@ -11,7 +11,7 @@ public class recurrsion_permutation {
 
         }
         for(int i=0;i<st.length();i++){
-            char ch=
+            char ch=s.charAt(i);
         }
 
 
